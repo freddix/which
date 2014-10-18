@@ -1,7 +1,8 @@
+# based on PLD Linux spec git://git.pld-linux.org/packages/which.git
 Summary:	Displays where a particular program in your path is located
 Name:		which
 Version:	2.20
-Release:	14
+Release:	15
 License:	GPL v3+
 Group:		Applications/File
 Source0:	http://www.xs4all.nl/~carlo17/which/%{name}-%{version}.tar.gz
